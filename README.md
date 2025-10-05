@@ -1,5 +1,4 @@
-# gmail-triage-bot
-# Gmail Cognitive Triage Agent 
+# Gmail-triage-bot
 
 This project is an intelligent Python script that automatically processes unread emails from a Gmail account. It uses the Google Gemini API to understand the content and intent of each email and then takes action by integrating with other Google Workspace services like Calendar, Tasks, and Sheets.
 
